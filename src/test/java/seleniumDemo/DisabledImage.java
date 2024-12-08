@@ -50,8 +50,7 @@ public void imageDisabled() throws InterruptedException {
     
     Thread.sleep(5000);
 
-    // Quit the driver
-    driver.quit();
+ 
 }
 	
 @Test
